@@ -1,0 +1,21 @@
+{"participants": {
+    "1025": {
+      "city": "Saint Louis",
+      "email": "notarealemail@email.com",
+      "name": "Bob Bobbington",
+      "phone": "123-4567",
+      "state": "MO",
+      "street": "123 S 9th St",
+      "zip": "12345"
+    },
+    "1728": {
+      "city":"Chesterfield",
+      "email": "thefakestemail@email.com",
+      "name": "Sarah Sarahington",
+      "phone": "234-4567",
+      "state": "MO",
+      "street": "PO Box 12345",
+      "zip": "23456"
+    }
+  }
+}

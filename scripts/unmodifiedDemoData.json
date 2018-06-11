@@ -1,0 +1,17 @@
+[{
+    "Name": "Bob Bobbington",
+    "Email":"notarealemail@email.com",
+    "Phone": "123-4567",
+    "Street": "123 S 9th St",
+    "City": "Saint Louis",
+    "State": "MO",
+    "Zip": 12345
+}, {
+    "Name": "Sarah Sarahington",
+    "Phone": "234-4567",
+    "Email": "thefakestemail@email.com",
+    "Street": "PO Box 12345",
+    "City": "Chesterfield",
+    "State": "MO",
+    "Zip": 23456
+}]
